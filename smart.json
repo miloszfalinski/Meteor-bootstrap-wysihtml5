@@ -3,6 +3,7 @@
     "description": "Port of Bootstrap-wysihtml5 to Meteor.",
     "homepage": "https://github.com/miloszfalinski/Meteor-bootstrap-wysihtml5",
     "author": "Milosz Falinski (http://milosz.is)",
-    "version": "0.1.1",
-    "git": "https://github.com/miloszfalinski/Meteor-bootstrap-wysihtml5.git"
+    "version": "0.2.0",
+    "git": "https://github.com/miloszfalinski/Meteor-bootstrap-wysihtml5.git",
+    "packages":{}
 }
