@@ -1,0 +1,8 @@
+{
+    "name": "bootstrap-wysihtml5",
+    "description": "Port of Bootstrap-wysihtml5 to Meteor.",
+    "homepage": "https://github.com/mcrider/meteor-bootstrap-wysiwyg",
+    "author": "Milosz Falinski (http://milosz.is)",
+    "version": "0.1.0",
+    "git": "https://github.com/mcrider/meteor-bootstrap-wysiwyg.git"
+}
